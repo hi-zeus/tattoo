@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Check [here](https://hi-zeus-tattoo.vercel.app/)
-
+<a href="/" _blank></a>
 ## Available Scripts
 
 In the project directory, you can run:
