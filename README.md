@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Check <a href="https://hi-zeus-tattoo.vercel.app" _blank>here</a>
+## Check <a href="https://hi-zeus-tattoo.vercel.app" target="_blank">here</a>
 ## Available Scripts
 
 In the project directory, you can run:
